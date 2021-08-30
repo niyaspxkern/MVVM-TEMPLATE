@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Passenger App</string>
+
+    <string name="common_text_no_internet_connection_message">No Internet Connection Available.</string>
+    <string name="common_text_api_failure_message">Unable to connect with server please try again later.</string>
+</resources>

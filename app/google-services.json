@@ -1,0 +1,171 @@
+{
+  "project_info": {
+    "project_number": "981904765620",
+    "firebase_url": "https://emjay-s.firebaseio.com",
+    "project_id": "emjay-s",
+    "storage_bucket": "emjay-s.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981904765620:android:b29e049b880a5b70309de1",
+        "android_client_info": {
+          "package_name": "com.emjays.frontdoor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981904765620-nt9rq2hc7jcb6l1ogpd0a6b53tpa20g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmS3HOitIfAuLeQVRfY9H_LOd9Pb1lRRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981904765620-nt9rq2hc7jcb6l1ogpd0a6b53tpa20g4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "981904765620-mee52k6nhgcqu6b8r4dlnhpu49sussu7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thetunagroup.emjay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981904765620:android:a58f555c88f5544a309de1",
+        "android_client_info": {
+          "package_name": "com.emjays.fulfillment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981904765620-nt9rq2hc7jcb6l1ogpd0a6b53tpa20g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmS3HOitIfAuLeQVRfY9H_LOd9Pb1lRRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981904765620-nt9rq2hc7jcb6l1ogpd0a6b53tpa20g4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "981904765620-mee52k6nhgcqu6b8r4dlnhpu49sussu7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thetunagroup.emjay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981904765620:android:34bf254f0383e02d309de1",
+        "android_client_info": {
+          "package_name": "www.thetunagroup.com.budhista"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981904765620-vo8rkh8u6f6i65bks0rbdnmvmln4bmk4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.thetunagroup.com.budhista",
+            "certificate_hash": "31dd7d5edc3654b68121d54ca88a5d5331b5d515"
+          }
+        },
+        {
+          "client_id": "981904765620-nt9rq2hc7jcb6l1ogpd0a6b53tpa20g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmS3HOitIfAuLeQVRfY9H_LOd9Pb1lRRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981904765620-nt9rq2hc7jcb6l1ogpd0a6b53tpa20g4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "981904765620-mee52k6nhgcqu6b8r4dlnhpu49sussu7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thetunagroup.emjay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981904765620:android:5d6f307a7147a097309de1",
+        "android_client_info": {
+          "package_name": "www.thetunagroup.com.emjays.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981904765620-db2akfefeevc96f1ce4up5l51isro22e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.thetunagroup.com.emjays.customer",
+            "certificate_hash": "c92527ec787e6456ce0ecf9ce1d174d77e5ff2b3"
+          }
+        },
+        {
+          "client_id": "981904765620-nt9rq2hc7jcb6l1ogpd0a6b53tpa20g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmS3HOitIfAuLeQVRfY9H_LOd9Pb1lRRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981904765620-nt9rq2hc7jcb6l1ogpd0a6b53tpa20g4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "981904765620-mee52k6nhgcqu6b8r4dlnhpu49sussu7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thetunagroup.emjay"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
